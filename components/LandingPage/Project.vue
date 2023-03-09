@@ -1,6 +1,6 @@
 <template>
   <div class="w-full h-screen flex flex-row">
-    <div class="w-3/5 h-full flex justify-center items-center">
+    <div class="w-3/5 h-full flex justify-end items-center">
       <div
         class="w-[80%] h-[80%] px-12 grid grid-cols-2 gap-4 overflow-auto scrollbar-hide"
       >
@@ -161,7 +161,7 @@
       </div>
     </div>
     <div
-      class="w-2/5 flex flex-col justify-center items-start leading-none font-Lora text-5xl"
+      class="w-2/5 flex flex-col justify-center items-start leading-none font-Lora text-6xl"
     >
       <h1>Recent</h1>
       <h1>Project</h1>
