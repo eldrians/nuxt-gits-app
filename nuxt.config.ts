@@ -12,4 +12,17 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  app: {
+    head: {
+      link: [
+        {rel: "stylesheet", href: "https://unpkg.com/aos@2.3.1/dist/aos.css"},
+      ],
+      script: [
+        {src: "https://unpkg.com/aos@2.3.1/dist/aos.js"}
+      ],
+    }
+  },
+  plugins: [
+    { src: '~/plugins/aos', mode: 'client' },
+  ],
 });

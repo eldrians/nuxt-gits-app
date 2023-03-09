@@ -23,7 +23,9 @@
             class="w-full h-full flex justify-start items-center font-Lora absolute transform duration-500 -translate-x-[200px] group-hover:translate-x-4"
           >
             <div class="absolute">
-              <h3 class="text-2xl tracking-wider text-white mb-4">Tes Kecermatan</h3>
+              <h3 class="text-2xl tracking-wider text-white mb-4">
+                Tes Kecermatan
+              </h3>
               <a
                 href="https://teskecermatan.owlcourse.net/"
                 class="text-white hover:text-blue-900 text-xl flex flex-row items-center gap-1 rounded font-sans"
@@ -51,7 +53,9 @@
             class="w-full h-full flex justify-start items-center font-Lora absolute transform duration-500 -translate-x-[200px] group-hover:translate-x-4"
           >
             <div class="absolute">
-              <h3 class="text-2xl tracking-wider text-white mb-4">Ujian Online</h3>
+              <h3 class="text-2xl tracking-wider text-white mb-4">
+                Ujian Online
+              </h3>
               <a
                 href="https://class.owlcourse.net/"
                 class="text-white hover:text-blue-900 text-xl flex flex-row items-center gap-1 rounded font-sans"
@@ -79,7 +83,9 @@
             class="w-full h-full flex justify-start items-center font-Lora absolute transform duration-500 -translate-x-[200px] group-hover:translate-x-4"
           >
             <div class="absolute">
-              <h3 class="text-2xl tracking-wider text-white mb-4">Pendeteksi Autis</h3>
+              <h3 class="text-2xl tracking-wider text-white mb-4">
+                Pendeteksi Autis
+              </h3>
               <a
                 href="https://asd.upi.edu/"
                 class="text-white hover:text-blue-900 text-xl flex flex-row items-center gap-1 rounded font-sans"
@@ -157,11 +163,13 @@
             </h3>
           </div>
         </div>
-        
       </div>
     </div>
     <div
       class="w-2/5 flex flex-col justify-center items-start leading-none font-Lora text-6xl"
+      data-aos="fade-left"
+      data-aos-duration="2000"
+      data-aos-delay="200"
     >
       <h1>Recent</h1>
       <h1>Project</h1>

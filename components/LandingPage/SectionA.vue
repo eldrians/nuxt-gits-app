@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full h-screen flex flex-row">
+    <div class="w-full h-screen flex flex-row overflow-x-hidden" id="sectionA">
       <div class="bg-black w-2/6 relative flex justify-end items-center">
         <img
           src="~/assets/image/section-1/img1.jpg"
@@ -10,7 +10,11 @@
       <div
         class="bg-white w-4/6 flex flex-col justify-center items-center font-Lora"
       >
-        <div class="pl-12 w-full text-6xl font-medium leading-tight">
+        <div class="pl-12 w-full text-6xl font-medium leading-tight" 
+        data-aos="fade-left"
+        data-aos-duration="2000"
+        data-aos-delay="500"
+        >
           <h1>Hello, I'm Axel</h1>
           <h1>I'm a Web Developer</h1>
         </div>
