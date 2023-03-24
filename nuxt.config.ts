@@ -20,7 +20,8 @@ export default defineNuxtConfig({
       script: [
         {src: "https://unpkg.com/aos@2.3.1/dist/aos.js"}
       ],
-    }
+    },
+    pageTransition: { name: 'page', mode: 'out-in' }
   },
   plugins: [
     { src: '~/plugins/aos', mode: 'client' },

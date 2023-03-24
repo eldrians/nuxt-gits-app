@@ -28,6 +28,7 @@
               </h3>
               <a
                 href="https://teskecermatan.owlcourse.net/"
+                target="blank"
                 class="text-white hover:text-blue-900 text-xl flex flex-row items-center gap-1 rounded font-sans"
                 ><IconLink /><span class="text-xs">Link</span></a
               >
