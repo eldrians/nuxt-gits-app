@@ -1,9 +1,9 @@
 <template>
   <div class="w-full flex flex-col justify-center items-center">
-    <div class="text-center font-Lora w-[50%] mt-20 mb-8">
+    <div class="text-center font-Lora w-[75%] md:w-[50%] mt-20 mb-8">
       <h5 class="uppercase font-bold text-sm text-slate-700">whats next</h5>
-      <h1 class="text-5xl mb-8 mt-4">Lets work together.</h1>
-      <p class="text-xl px-12">
+      <h1 class="text-3xl md:text-5xl mb-8 mt-4">Lets work together.</h1>
+      <p class="px-0 md:px-12 text-md md:text-xl">
         If you'd like to talk about a project you want to create, just drop me a message at
         <span class="font-semibold text-slate-800">eldrianaxel1@gmail.com</span> I'm currently Available for any website
         projects.
